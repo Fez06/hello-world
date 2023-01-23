@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.debug header {
+    height: 130px;
+    background-color: darkgoldenrod;
+}
+
+.debug footer {
+    height: 90px;
+    background-color: azure;
+}
+.row {
+    display: flex;
+}
